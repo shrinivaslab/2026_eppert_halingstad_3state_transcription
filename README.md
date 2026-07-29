@@ -1,5 +1,7 @@
 # cof-condensate-bursting
 
+[![DOI](https://zenodo.org/badge/1286603385.svg)](https://doi.org/10.5281/zenodo.21689854)
+
 Code and data to accompany the manuscript titled **"Condensates increase the frequency of transcription"**
 on CoF condensate-driven transcriptional bursting. Simulates a stochastic three-state 
 promoter model, comparing a **soluble cofactor** regime against a 
