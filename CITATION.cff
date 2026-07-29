@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it using the metadata below.
+  This code accompanies the manuscript "Condensates increase the
+  frequency of transcription" (Eppert, Halingstad, et al.).
+type: software
+title: >-
+  2026_eppert_halingstad_3state_transcription: Code and data for
+  condensate-driven transcriptional bursting
+authors:
+  - family-names: "Halingstad"
+    given-names: "Ethan V."
+    orcid: "https://orcid.org/0009-0008-0612-385X"
+  - family-names: "Shrinivas"
+    given-names: "Krishna"
+    orcid: "https://orcid.org/0000-0002-4167-9385"
+repository-code: >-
+  https://github.com/shrinivaslab/2026_eppert_halingstad_3state_transcription
+abstract: >-
+  Code and data to accompany the manuscript "Condensates increase the
+  frequency of transcription," which examines cofactor (CoF)
+  condensate-driven transcriptional bursting. Simulates a stochastic
+  three-state promoter model, comparing a soluble cofactor regime
+  against a condensate-forming cofactor regime.
+keywords:
+  - biomolecular condensates
+  - transcriptional bursting
+  - stochastic gene expression
+  - Gillespie simulation
+  - phase separation
+license: MIT
+version: 1.0.0
+date-released: "2026-07-29"
